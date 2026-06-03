@@ -15,7 +15,7 @@
 - Gonzalo Cárdenas (@Zagon22)
 - Gabriela Gattas (@Gabi6285)
 - Gastón Rossi (@torino05)
-
+- Flores Alex (afloreschoquehuanca-byte)
 ## API elegida
 
 - **Nombre**: `<nombre de la API>`
